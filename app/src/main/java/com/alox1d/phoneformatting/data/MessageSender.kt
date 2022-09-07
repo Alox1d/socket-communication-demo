@@ -1,4 +1,4 @@
-package com.alox1d.phoneformatting.ui.login
+package com.alox1d.phoneformatting.data
 
 import android.os.AsyncTask
 import android.util.Log
